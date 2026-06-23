@@ -189,27 +189,7 @@ Stock market prices are affected by many unpredictable factors such as news, mar
 
 ---
 
-## Folder Structure
-
-```text
-Task-2-Stock-Price-Prediction/
-│
-├── Task_2_Stock_Price_Prediction.ipynb
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## Author
-
-**Your Name**  
+Sharjeel Raza
 AI/ML Engineering Intern  
-DevelopersHub Corporation
-
----
-
-## Internship Task
-
-**Task 2:** Predict Future Stock Prices Short-Term  
-**Domain:** Machine Learning, Regression, Time Series Data Handling  
+DevelopersHub Corporation 
